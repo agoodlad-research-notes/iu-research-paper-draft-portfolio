@@ -6,4 +6,8 @@ These are the most up-to-date drafts of papers of note that I have written so fa
 
 -[A Caratheodory Extension for Signed Measures (2-27-25 Update)](https://agoodlad-research-notes.github.io/iu-research-paper-draft-portfolio/a-caratheodory-extension-for-signed-measures-unofficial-first-draft-2-27-25-update.pdf)
 
+-[A Caratheodory Extension for Signed Measures (5-10-25 Update)](https://agoodlad-research-notes.github.io/iu-research-paper-draft-portfolio/a-caratheodory-extension-for-signed-measures-unofficial-first-draft-5-10-25-update.pdf)
+
+-[Signed Random Measure Paper Outline](https://agoodlad-research-notes.github.io/iu-research-paper-draft-portfolio/signed-random-measure-paper-outline-and-abstract.pdf)
+
 NOTE: Stay tuned for an update of this page where I upload drafts of these papers or other new ones as I complete them.
